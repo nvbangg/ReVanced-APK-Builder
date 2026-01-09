@@ -10,12 +10,4 @@ YouTube: 20.14.43
 Youtube-Music: 8.10.52  
 
 **Patches**: [ReVancedExperiments v1.9.0](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)  
-**Patches**: [ReVancedExperiments v](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v)  
-**Patches**: [revanced-patches v5.47.0](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)  
-**Patches**: [revanced-patches v](https://github.com/ReVanced/revanced-patches/releases/tag/v)    
+**Patches**: [revanced-patches v5.47.0](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)    
