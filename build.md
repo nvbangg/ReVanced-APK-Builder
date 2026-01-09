@@ -1,7 +1,7 @@
-Facebook: 490.0.0.63.82  
 Duolingo: 6.54.5  
-Instagram: 410.1.0.63.71  
+Facebook: 490.0.0.63.82  
 Google-Photos: 7.57.0.843750501  
+Instagram: 410.1.0.63.71  
 Messenger: 537.0.0.52.109  
 Telegram: 12.3.1  
 Telegram-Web: 12.3.1  
