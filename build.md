@@ -9,5 +9,7 @@ TikTok: 36.5.4
 YouTube: 20.14.43  
 Youtube-Music: 8.10.52  
 
-**Patches**: [ReVancedExperiments v1.9.0](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0) <!-- patches-1.9.0.rvp -->  
-**Patches**: [revanced-patches v5.47.0](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0) <!-- patches-5.47.0.rvp -->    
+- Patch details  
+Patches: Aunali321/ReVancedExperiments patches-1.9.0.rvp
+- Patch details  
+Patches: ReVanced/revanced-patches patches-5.47.0.rvp  
