@@ -115,7 +115,7 @@ get_prebuilts() {
 			PATCH_EXT=$(java -jar "$file" -h | grep -oP -m1 '\w+(?= files)' | tr '[:upper:]' '[:lower:]')
 			if [ -z "$PATCH_EXT" ]; then abort "Unable to detect patch extension from CLI help output."; fi
 		elif [ "$tag" = "Patches" ]; then
-			if [ $grab_cl = true ]; then echo "**$tag**: [${src##*/} ${tag_name}](https://github.com/${src}/releases/tag/${tag_name})  " >>"${cl_dir}/changelog.md"; fi
+			if [ $grab_cl = true ]; then echo "**$tag**: [${src##*/} ${tag_name}](https://github.com/${src}/releases/tag/${tag_name}) <!-- $name -->  " >>"${cl_dir}/changelog.md"; fi
 			if [ "$REMOVE_RV_INTEGRATIONS_CHECKS" = true ]; then
 				# Dynamically calculate inner extension (rvp->rve, mpp->mpe)
 				local inner_ext="${ext%p}e"
@@ -177,7 +177,7 @@ config_update() {
 				abort oops
 			fi
 			if [ "$last_patches" ]; then
-				if ! OP=$(grep "^Patches: ${PATCHES_SRC%%/*}/" build.md | grep "$last_patches"); then
+				if ! OP=$(grep "$last_patches" build.md); then
 					sources["$PATCHES_SRC/$PATCHES_VER"]=1
 					prcfg=true
 					upped+=("$table_name")
