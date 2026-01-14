@@ -12,26 +12,48 @@ with open("README.md", encoding="utf-8") as f:
 
 # Parse each line: "AppName: version" or "AppName (arch): version"
 for line in build.splitlines():
-    m = re.match(r"^([\w\.-]+)(?:\s*\(([^)]+)\))?\s*:\s*([\d\.]+)$", line.strip())
-    if not m:
+    try:
+        m = re.match(r"^([\w\.-]+)(?:\s*\(([^)]+)\))?\s*:\s*(.+)$", line.strip())
+        if not m:
+            continue
+
+        app_name, arch, version = m.groups()
+
+        badge_version = version.replace("-", ".").replace(" ", "")
+        link_version = version.replace(" ", "").replace("(", ".").replace(")", ".")
+
+        # Find badge pattern:
+        # Matches the whole Markdown link: [![Download-AppName](BadgeURL)](DownloadURL)
+        if arch:
+            pattern = rf"\[!\[Download-{re.escape(app_name)}\].*?-{re.escape(arch)}\.apk\)"
+        else:
+            pattern = rf"\[!\[Download-{re.escape(app_name)}\].*?\.apk\)"
+
+        for match in re.finditer(pattern, readme, re.DOTALL):
+            old_badge = match.group(0)
+
+            # Split into [Start+Badge] and [DownloadLink] 
+            parts = old_badge.split("](")
+
+            if len(parts) >= 2:
+                # 1. Update Badge URL
+                # Matches -v...-gray
+                parts[-2] = re.sub(
+                    r"(-v).*?(-gray)", f"\\g<1>{badge_version}\\g<2>", parts[-2]
+                )
+
+                # 2. Update Download Link
+                # Matches -v...-arm or -v...-all
+                parts[-1] = re.sub(
+                    r"(-v).*?(-(?:arm|all|x86))", f"\\g<1>{link_version}\\g<2>", parts[-1]
+                )
+                parts[-1] = re.sub(r"download/\d+/", f"download/{tag}/", parts[-1])
+
+                new_badge = "](".join(parts)
+                readme = readme.replace(old_badge, new_badge)
+    except Exception as e:
+        print(f"Error processing line '{line.strip()}': {e}")
         continue
-
-    app_name, arch, version = m.groups()
-
-    # Find badge pattern:
-    if arch:
-        pattern = rf"\[!\[Download-{re.escape(app_name)}\].*?-{re.escape(arch)}\.apk\)"
-    else:
-        pattern = rf"\[!\[Download-{re.escape(app_name)}\].*?\.apk\)"
-
-    for match in re.finditer(pattern, readme, re.DOTALL):
-        old_badge = match.group(0)
-        # Replace version: -vX.X.X- → -v{new_version}-
-        new_badge = re.sub(r"-v[\d.]+-", f"-v{version}-", old_badge)
-        # Replace tag: download/old_tag/ → download/{new_tag}/
-        new_badge = re.sub(r"download/\d+/", f"download/{tag}/", new_badge)
-
-        readme = readme.replace(old_badge, new_badge)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
