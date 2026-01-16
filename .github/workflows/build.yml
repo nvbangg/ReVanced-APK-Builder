@@ -21,6 +21,8 @@ on:
           - "anddea/revanced-patches"
           - "scrazzz/my-revanced-patches"
           - "indrastorms/Dropped-Patches"
+          - "wchill/rvx-morphed"
+          - "jkennethcarino/privacy-revanced-patches"
 
 
 jobs:

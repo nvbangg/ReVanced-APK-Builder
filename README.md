@@ -46,20 +46,6 @@
 
 </details>
 
-#### [Instagram ReVanced Experiments:](https://play.google.com/store/apps/details?id=com.instagram.android)
-
-[![Download-Instagram-ReVanced-Experiments](https://img.shields.io/badge/Download_Instagram_ReVanced_Experiments-v412.0.0.35.87-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/3/instagram-revanced-experiments-aunali321-v412.0.0.35.87-arm64-v8a.apk)
-
-ReVanced Experiments Patches
-
-#### [X (Twitter) Piko:](https://play.google.com/store/apps/details?id=com.twitter.android)
-
-[![Download-Twitter-Piko](https://img.shields.io/badge/Download_Twitter_Piko-v10.86.0.release.0-gray?labelColor=000000&style=for-the-badge&logo=X&logoColor=white)](../../releases/download/3/twitter-piko-crimera-v10.86.0-release.0-arm64-v8a.apk)
-
-Piko Patches
-
-</details>
-
 #### [Reddit (RVX Morphed):](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 [![Download-Reddit-RVX-Morphed](https://img.shields.io/badge/Download_Reddit_RVX_Morphed-v2026.02.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/3/reddit-rvx-morphed-wchill-v2026.02.0-arm64-v8a.apk)
@@ -253,11 +239,11 @@ Privacy Patches
 
 - [CH play version:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-[![Download-Telegram](https://img.shields.io/badge/Download_Telegram-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/5/telegram-revanced-experiments-aunali321-v12.3.1-arm64-v8a.apk)
+[![Download-Telegram](https://img.shields.io/badge/Download_Telegram-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/2/telegram-revanced-experiments-aunali321-v12.3.1-arm64-v8a.apk)
 
 - [Web version:](https://telegram.org/android) This version has fewer restrictions
 
-[![Download-Telegram-Web](https://img.shields.io/badge/Download_Telegram_Web-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/5/telegram-web-revanced-experiments-aunali321-v12.3.1-arm64-v8a.apk)  
+[![Download-Telegram-Web](https://img.shields.io/badge/Download_Telegram_Web-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/2/telegram-web-revanced-experiments-aunali321-v12.3.1-arm64-v8a.apk)  
 
 <details>
   <summary>ReVanced Experiments Patches</summary>
@@ -606,5 +592,11 @@ Privacy Patches
 [![Scrazzz Patches](https://img.shields.io/badge/Scrazzz_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/scrazzz/my-revanced-patches)
 
 [![Dropped Patches](https://img.shields.io/badge/Dropped_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/indrastorms/Dropped-Patches)
+
+[![Piko Patches](https://img.shields.io/badge/Piko_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/crimera/piko)
+
+[![RVX Morphed Patches](https://img.shields.io/badge/RVX_Morphed_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/wchill/rvx-morphed)
+
+[![Privacy Patches](https://img.shields.io/badge/Privacy_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/jkennethcarino/privacy-revanced-patches)
 
 </details>

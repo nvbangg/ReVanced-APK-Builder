@@ -44,13 +44,15 @@ uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Telegram]
 patches-source = "Aunali321/ReVancedExperiments"
-rv-brand = "revanced-experiments-aunali321"
+app-name = "telegram-revanced-experiments"
+rv-brand = "aunali321"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
 uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
 [Telegram-Web]
 patches-source = "Aunali321/ReVancedExperiments"
-rv-brand = "revanced-experiments-aunali321"
+app-name = "telegram-revanced-experiments"
+rv-brand = "aunali321"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram-web-version/"
 
 [Twitter]
@@ -109,7 +111,8 @@ uptodown-dlurl = "https://az-screen-recorder.en.uptodown.com/android"
 
 [Nova-Launcher]
 patches-source = "indrastorms/Dropped-Patches"
-rv-brand = "dropped-indrastorms"
+app-name = "nova-launcher-dropped"
+rv-brand = "indrastorms"
 uptodown-dlurl = "https://nova-launcher.en.uptodown.com/android"
 
 [Proton-Mail]
@@ -140,16 +143,6 @@ app-name = "youtube-music"
 rv-brand = "morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-
-[Instagram-ReVanced-Experiments]
-patches-source = "Aunali321/ReVancedExperiments"
-rv-brand = "aunali321"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-
-[Twitter-Piko]
-patches-source = "crimera/piko"
-rv-brand = "crimera"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Reddit-RVX-Morphed]
 patches-source = "wchill/rvx-morphed"
