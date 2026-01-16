@@ -16,7 +16,6 @@
 <details>
   <summary><h3><a href="https://github.com/MorpheApp">MorpheApp</a> and Other Alternative Apps
 </h3></summary>
-<br>
 
 #### [MicroG RE:](https://github.com/MorpheApp/MicroG-RE/)
 
@@ -563,6 +562,8 @@ Privacy Patches
 
 </details>
 
+---
+
 ### [Meme Generator:](https://play.google.com/store/apps/details?id=com.zombodroid.MemeGenerator)
 
 [![Download-Meme-Generator](https://img.shields.io/badge/Download_Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=Android&logoColor=white)](../../releases/download/2/meme-generator-revanced-v4.6377-arm64-v8a.apk)
@@ -592,8 +593,6 @@ Privacy Patches
 [![Scrazzz Patches](https://img.shields.io/badge/Scrazzz_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/scrazzz/my-revanced-patches)
 
 [![Dropped Patches](https://img.shields.io/badge/Dropped_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/indrastorms/Dropped-Patches)
-
-[![Piko Patches](https://img.shields.io/badge/Piko_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/crimera/piko)
 
 [![RVX Morphed Patches](https://img.shields.io/badge/RVX_Morphed_Patches-GPL--3.0-blue?style=for-the-badge&logo=github)](https://github.com/wchill/rvx-morphed)
 
