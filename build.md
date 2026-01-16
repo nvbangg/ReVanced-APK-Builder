@@ -38,17 +38,26 @@ YouTube-Music-Morphe: 8.37.56
 Patches: anddea/patches-3.15.0.rvp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0)
 
+Patches: Aunali321/patches-1.9.0.rvp  
+[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
+
 Patches: indrastorms/patches-1.5.1.rvp  
 [Changelog](https://github.com/indrastorms/Dropped-Patches/releases/tag/v1.5.1)
 
 Patches: jkennethcarino/patches-4.5.0.rvp  
 [Changelog](https://github.com/jkennethcarino/privacy-revanced-patches/releases/tag/v4.5.0)
 
-CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
-CLI: ReVanced/revanced-cli-5.0.1-all.jar  
 Patches: scrazzz/patches-1.1.2-dev.2.rvp  
 [Changelog](https://github.com/scrazzz/my-revanced-patches/releases/tag/v1.1.2-dev.2)
 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
+Patches: MorpheApp/patches-1.5.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.5.0)
+
+CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)
+
+CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
 Patches: wchill/patches-5.15.1.mpp  
-[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.1)  
+[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.1)
