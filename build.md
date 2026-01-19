@@ -8,7 +8,7 @@ Patches: MorpheApp/patches-1.6.0.mpp 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar    
 
 Skipped:  
-Patches: scrazzz/patches-1.1.2-dev.2.rvp  
+Patches: scrazzz/patches-1.0.0-dev.0.rvp  
 Patches: ReVanced/patches-5.47.0.rvp  
 Patches: indrastorms/patches-1.5.1.rvp  
 Patches: jkennethcarino/patches-4.5.0.rvp  
