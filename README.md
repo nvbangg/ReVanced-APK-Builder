@@ -23,7 +23,7 @@
 
 #### [YouTube Morphe:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-[![Download-YouTube-Morphe](https://img.shields.io/badge/Download_YouTube_Morphe-v20.37.48-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/3/youtube-morphe-v20.37.48-arm64-v8a.apk)
+[![Download-YouTube-Morphe](https://img.shields.io/badge/Download_YouTube_Morphe-v20.37.48-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/5/youtube-morphe-v20.37.48-arm64-v8a.apk)
 
 <details>
   <summary>Morphe Patches</summary>
@@ -35,7 +35,7 @@
 
 #### [YouTube Music Morphe:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-[![Download-YouTube-Music-Morphe](https://img.shields.io/badge/Download_YouTube_Music_Morphe-v8.37.56-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/3/youtube-music-morphe-v8.37.56-arm64-v8a.apk)
+[![Download-YouTube-Music-Morphe](https://img.shields.io/badge/Download_YouTube_Music_Morphe-v8.37.56-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/5/youtube-music-morphe-v8.37.56-arm64-v8a.apk)
 
 <details>
   <summary>Morphe Patches</summary>
@@ -47,7 +47,7 @@
 
 #### [Reddit (RVX Morphed):](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
-[![Download-Reddit-RVX-Morphed](https://img.shields.io/badge/Download_Reddit_RVX_Morphed-v2025.52.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/4/reddit-rvx-morphed-wchill-v2025.52.0-arm64-v8a.apk)
+[![Download-Reddit-RVX-Morphed](https://img.shields.io/badge/Download_Reddit_RVX_Morphed-v2026.03.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/5/reddit-rvx-morphed-wchill-v2026.03.0-arm64-v8a.apk)
 
 RVX Morphed Patches
 
