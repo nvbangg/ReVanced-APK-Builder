@@ -43,7 +43,7 @@ jobs:
 
       - name: Checkout build.md from update branch
         run: |
-          git checkout origin/update build.md 2>/dev/null || echo "No existing build.md found"
+          git show origin/update:build.md > build.md || echo "No existing build.md found"
 
       - name: Update config
         if: ${{ inputs.from_ci }}
@@ -86,7 +86,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: README.md
-          commit_message: Automated README update for release ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+          commit_message: Automated README update for Release No.${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
 
       - name: Upload modules to release
         uses: svenstaro/upload-release-action@v2
@@ -94,7 +94,7 @@ jobs:
           body: ${{ steps.get_output.outputs.BUILD_LOG }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./build/*
-          release_name: ReVanced
+          release_name: Release No.${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
           tag: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
           file_glob: true
           overwrite: true
