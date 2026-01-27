@@ -129,7 +129,7 @@ Privacy Patches
 
 - **This app may not work in some regions until the patch issue is fixed**
 
-[![Download-Spotify](https://img.shields.io/badge/Download_Spotify-v9.0.90.1229-gray?labelColor=1DB954&style=for-the-badge&logo=Spotify&logoColor=white)](../../releases/download/8/spotify-anddea-v9.0.90.1229-arm64-v8a.apk)
+[![Download-Spotify](https://img.shields.io/badge/Download_Spotify-v9.0.90.1229-gray?labelColor=1DB954&style=for-the-badge&logo=Spotify&logoColor=white)](../../releases/download/9/spotify-anddea-v9.0.90.1229-arm64-v8a.apk)
 
 <details>
   <summary>Anddea Patches</summary>
