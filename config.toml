@@ -51,7 +51,7 @@ uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
 [Telegram-Web]
 patches-source = "Aunali321/ReVancedExperiments"
-app-name = "telegram-revanced-experiments"
+app-name = "telegram-web-revanced-experiments"
 rv-brand = "aunali321"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram-web-version/"
 
