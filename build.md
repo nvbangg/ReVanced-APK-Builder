@@ -33,4 +33,3 @@ Skipped:
 Patches: anddea/patches-3.16.0.rvp    
 Patches: ReVanced/patches-5.48.0.rvp    
 Patches: scrazzz/patches-1.1.0-dev.1.rvp    
-Patches: wchill/patches-5.16.0.mpp    
