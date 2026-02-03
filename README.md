@@ -44,18 +44,18 @@
 
 </details>
 
-[![Download-YouTube](https://img.shields.io/badge/YouTube-v20.40.45-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/12/youtube-nvbangg-v20.40.45.apk)
+[![Download-YouTube](https://img.shields.io/badge/YouTube-v20.40.45-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/1/youtube-nvbangg-v20.40.45.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - MorpheApp/morphe-patches
 
-[![Download-YouTube-Morphe](https://img.shields.io/badge/YouTube_Morphe-v20.40.45-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/12/youtube-morphe-v20.40.45.apk)
+[![Download-YouTube-Morphe](https://img.shields.io/badge/YouTube_Morphe-v20.40.45-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/1/youtube-morphe-v20.40.45.apk)
 
 - ReVanced/revanced-patches
 
-[![Download-YouTube-ReVanced](https://img.shields.io/badge/YouTube_ReVanced-v20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/12/youtube-revanced-v20.14.43.apk)
+[![Download-YouTube-ReVanced](https://img.shields.io/badge/YouTube_ReVanced-v20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/1/youtube-revanced-v20.14.43.apk)
 
 </details>
 
@@ -75,18 +75,18 @@
 
 </details>
 
-[![Download-YouTube-Music](https://img.shields.io/badge/YouTube_Music-v8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/12/youtube-music-nvbangg-v8.10.52.apk)
+[![Download-YouTube-Music](https://img.shields.io/badge/YouTube_Music-v8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/1/youtube-music-nvbangg-v8.10.52.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - ReVanced/revanced-patches (full patch)
 
-[![Download-YouTube-Music-ReVanced](https://img.shields.io/badge/YouTube_Music_ReVanced-v8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/12/youtube-music-revanced-v8.10.52.apk)
+[![Download-YouTube-Music-ReVanced](https://img.shields.io/badge/YouTube_Music_ReVanced-v8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/1/youtube-music-revanced-v8.10.52.apk)
 
 - MorpheApp/morphe-patches
 
-[![Download-YouTube-Music-Morphe](https://img.shields.io/badge/YouTube_Music_Morphe-v8.40.54-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/12/youtube-music-morphe-v8.40.54.apk)
+[![Download-YouTube-Music-Morphe](https://img.shields.io/badge/YouTube_Music_Morphe-v8.40.54-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/1/youtube-music-morphe-v8.40.54.apk)
 
 </details>
 
@@ -100,7 +100,7 @@
 
 </details>
 
-[![Download-Google-Photos](https://img.shields.io/badge/Google_Photos-v7.61.0.860908034-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/12/google-photos-revanced-v7.61.0.860908034.apk)
+[![Download-Google-Photos](https://img.shields.io/badge/Google_Photos-v7.61.0.860908034-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/1/google-photos-revanced-v7.61.0.860908034.apk)
 
 ---
 ### [Spotify:](https://play.google.com/store/apps/details?id=com.spotify.music)
@@ -119,7 +119,7 @@
 
 </details>
 
-[![Download-Spotify](https://img.shields.io/badge/Spotify-v9.0.90.1229-gray?labelColor=1DB954&style=for-the-badge&logo=Spotify&logoColor=white)](../../releases/download/12/spotify-anddea-v9.0.90.1229.apk)
+[![Download-Spotify](https://img.shields.io/badge/Spotify-v9.0.90.1229-gray?labelColor=1DB954&style=for-the-badge&logo=Spotify&logoColor=white)](../../releases/download/1/spotify-anddea-v9.0.90.1229.apk)
 
 ---
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
@@ -139,7 +139,7 @@
 
 </details>
 
-[![Download-TikTok](https://img.shields.io/badge/TikTok-v36.5.4-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/12/tiktok-revanced-v36.5.4.apk)
+[![Download-TikTok](https://img.shields.io/badge/TikTok-v36.5.4-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/1/tiktok-revanced-v36.5.4.apk)
 
 ---
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
@@ -153,14 +153,14 @@
 
 </details>
 
-[![Download-Instagram](https://img.shields.io/badge/Instagram-v414.0.0.40.83-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/12/instagram-revanced-v414.0.0.40.83.apk)
+[![Download-Instagram](https://img.shields.io/badge/Instagram-v414.0.0.40.83-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/1/instagram-revanced-v414.0.0.40.83.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - Aunali321/ReVancedExperiments
 
-[![Download-Instagram-ReVancedExperiments](https://img.shields.io/badge/Instagram_ReVancedExperiments-v414.0.0.40.83-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/12/instagram-aunali321-v414.0.0.40.83.apk)
+[![Download-Instagram-ReVancedExperiments](https://img.shields.io/badge/Instagram_ReVancedExperiments-v414.0.0.40.83-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/1/instagram-aunali321-v414.0.0.40.83.apk)
 
 </details>
 
@@ -174,14 +174,14 @@
 
 </details>
 
-[![Download-Duolingo](https://img.shields.io/badge/Duolingo-v6.64.4-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/12/duolingo-hoo-dles-v6.64.4.apk)
+[![Download-Duolingo](https://img.shields.io/badge/Duolingo-v6.64.4-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/1/duolingo-hoo-dles-v6.64.4.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - ReVanced/revanced-patches
 
-[![Download-Duolingo-ReVanced](https://img.shields.io/badge/Duolingo_ReVanced-v6.54.5-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/12/duolingo-revanced-v6.54.5.apk)
+[![Download-Duolingo-ReVanced](https://img.shields.io/badge/Duolingo_ReVanced-v6.54.5-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/1/duolingo-revanced-v6.54.5.apk)
 
 </details>
 
@@ -198,7 +198,7 @@
 
 </details>
 
-[![Download-Facebook](https://img.shields.io/badge/Facebook-v490.0.0.63.82-gray?labelColor=1877F2&style=for-the-badge&logo=Facebook&logoColor=white)](../../releases/download/12/facebook-revanced-v490.0.0.63.82.apk)
+[![Download-Facebook](https://img.shields.io/badge/Facebook-v490.0.0.63.82-gray?labelColor=1877F2&style=for-the-badge&logo=Facebook&logoColor=white)](../../releases/download/1/facebook-revanced-v490.0.0.63.82.apk)
 
 ---
 ### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
@@ -214,7 +214,7 @@
 
 </details>
 
-[![Download-Messenger](https://img.shields.io/badge/Messenger-v546.0.0.35.70-gray?labelColor=00B2FF&style=for-the-badge&logo=messenger&logoColor=white)](../../releases/download/12/messenger-revanced-v546.0.0.35.70.apk)
+[![Download-Messenger](https://img.shields.io/badge/Messenger-v546.0.0.35.70-gray?labelColor=00B2FF&style=for-the-badge&logo=messenger&logoColor=white)](../../releases/download/1/messenger-revanced-v546.0.0.35.70.apk)
 
 ---
 ### [Telegram:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
@@ -231,7 +231,7 @@
 
 </details>
 
-[![Download-Telegram](https://img.shields.io/badge/Telegram-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/12/telegram-aunali321-v12.3.1.apk)
+[![Download-Telegram](https://img.shields.io/badge/Telegram-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/1/telegram-aunali321-v12.3.1.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
@@ -239,7 +239,7 @@
 - [Telegram Web](https://telegram.org/android) (fewer restrictions):
 - Aunali321/ReVancedExperiments
 
-[![Download-Telegram-Web](https://img.shields.io/badge/Telegram_Web-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/12/telegram-web-aunali321-v12.3.1.apk)
+[![Download-Telegram-Web](https://img.shields.io/badge/Telegram_Web-v12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/1/telegram-web-aunali321-v12.3.1.apk)
 
 </details>  
 
@@ -257,14 +257,14 @@
 
 </details>
 
-[![Download-Twitter](https://img.shields.io/badge/X_(Twitter)-v10.86.0.release.0-gray?labelColor=000000&style=for-the-badge&logo=X&logoColor=white)](../../releases/download/12/twitter-revanced-v10.86.0-release.0.apk)
+[![Download-Twitter](https://img.shields.io/badge/X_(Twitter)-v10.86.0.release.0-gray?labelColor=000000&style=for-the-badge&logo=X&logoColor=white)](../../releases/download/1/twitter-revanced-v10.86.0-release.0.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - crimera/piko
 
-[![Download-Twitter-Piko](https://img.shields.io/badge/X_(Twitter)_Piko-v11.62.0.release.0-gray?labelColor=000000&style=for-the-badge&logo=X&logoColor=white)](../../releases/download/12/twitter-crimera-v11.62.0-release.0.apk)
+[![Download-Twitter-Piko](https://img.shields.io/badge/X_(Twitter)_Piko-v11.62.0.release.0-gray?labelColor=000000&style=for-the-badge&logo=X&logoColor=white)](../../releases/download/1/twitter-crimera-v11.62.0-release.0.apk)
 
 </details>
 
@@ -283,7 +283,7 @@
 
 </details>
 
-[![Download-Twitch](https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&style=for-the-badge&logo=Twitch&logoColor=white)](../../releases/download/12/twitch-revanced-v16.9.1.apk)
+[![Download-Twitch](https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&style=for-the-badge&logo=Twitch&logoColor=white)](../../releases/download/1/twitch-revanced-v16.9.1.apk)
 
 ---
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
@@ -298,18 +298,18 @@
 
 </details>
 
-[![Download-Reddit](https://img.shields.io/badge/Reddit-v2026.05.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/12/reddit-revanced-v2026.05.0.apk)
+[![Download-Reddit](https://img.shields.io/badge/Reddit-v2026.05.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/1/reddit-revanced-v2026.05.0.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - MorpheApp/morphe-patches
 
-[![Download-Reddit-Morphe](https://img.shields.io/badge/Reddit_Morphe-v2026.03.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/12/reddit-morphe-v2026.03.0.apk)
+[![Download-Reddit-Morphe](https://img.shields.io/badge/Reddit_Morphe-v2026.03.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/1/reddit-morphe-v2026.03.0.apk)
 
 - jkennethcarino/privacy-revanced-patches
 
-[![Download-Reddit-Privacy-Patches](https://img.shields.io/badge/Reddit_Privacy_Patches-v2026.05.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/12/reddit-jkennethcarino-v2026.05.0.apk)
+[![Download-Reddit-Privacy-Patches](https://img.shields.io/badge/Reddit_Privacy_Patches-v2026.05.0-gray?labelColor=FF4500&style=for-the-badge&logo=Reddit&logoColor=white)](../../releases/download/1/reddit-jkennethcarino-v2026.05.0.apk)
 
 </details>
 
@@ -325,7 +325,7 @@
 
 </details>
 
-[![Download-SoundCloud](https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&style=for-the-badge&logo=SoundCloud&logoColor=white)](../../releases/download/12/soundcloud-revanced-v2025.05.27-release.apk)
+[![Download-SoundCloud](https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&style=for-the-badge&logo=SoundCloud&logoColor=white)](../../releases/download/1/soundcloud-revanced-v2025.05.27-release.apk)
 
 ---
 ### [Viber:](https://play.google.com/store/apps/details?id=com.viber.voip)
@@ -337,7 +337,7 @@
 
 </details>
 
-[![Download-Viber](https://img.shields.io/badge/Viber-v26.1.2.0-gray?labelColor=7360F2&style=for-the-badge&logo=Viber&logoColor=white)](../../releases/download/12/viber-revanced-v26.1.2.0.apk)
+[![Download-Viber](https://img.shields.io/badge/Viber-v26.1.2.0-gray?labelColor=7360F2&style=for-the-badge&logo=Viber&logoColor=white)](../../releases/download/1/viber-revanced-v26.1.2.0.apk)
 
 ---
 ### [Threads:](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
@@ -349,14 +349,14 @@
 
 </details>
 
-[![Download-Threads](https://img.shields.io/badge/Threads-v416.0.0.0.48-gray?labelColor=000000&style=for-the-badge&logo=Threads&logoColor=white)](../../releases/download/12/threads-aunali321-v416.0.0.0.48.apk)
+[![Download-Threads](https://img.shields.io/badge/Threads-v416.0.0.0.53-gray?labelColor=000000&style=for-the-badge&logo=Threads&logoColor=white)](../../releases/download/1/threads-aunali321-v416.0.0.0.53.apk)
 
 <details>
   <summary><b><i>Alternative Versions</i></b></summary>
 
 - ReVanced/revanced-patches
 
-[![Download-Threads-ReVanced](https://img.shields.io/badge/Threads_ReVanced-v415.0.0.26.77-gray?labelColor=000000&style=for-the-badge&logo=Threads&logoColor=white)](../../releases/download/12/threads-revanced-v415.0.0.26.77.apk)
+[![Download-Threads-ReVanced](https://img.shields.io/badge/Threads_ReVanced-v415.0.0.26.77-gray?labelColor=000000&style=for-the-badge&logo=Threads&logoColor=white)](../../releases/download/1/threads-revanced-v415.0.0.26.77.apk)
 
 </details>
 
@@ -372,7 +372,7 @@
 
 </details>
 
-[![Download-Gboard](https://img.shields.io/badge/Gboard-v16.6.3.855170483.release.arm64.v8a-gray?labelColor=4285F4&style=for-the-badge&logo=Google&logoColor=white)](../../releases/download/12/gboard-jkennethcarino-v16.6.3.855170483-release-arm64-v8a.apk)
+[![Download-Gboard](https://img.shields.io/badge/Gboard-v16.6.3.855170483.release.arm64.v8a-gray?labelColor=4285F4&style=for-the-badge&logo=Google&logoColor=white)](../../releases/download/1/gboard-jkennethcarino-v16.6.3.855170483-release-arm64-v8a.apk)
 
 ---
 ### [Google Recorder:](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
@@ -384,7 +384,7 @@
 
 </details>
 
-[![Download-Google-Recorder](https://img.shields.io/badge/Google_Recorder-v4.2.20251118.834471379-gray?labelColor=F44336&style=for-the-badge&logo=Google&logoColor=white)](../../releases/download/12/google-recorder-revanced-v4.2.20251118.834471379.apk)
+[![Download-Google-Recorder](https://img.shields.io/badge/Google_Recorder-v4.2.20251118.834471379-gray?labelColor=F44336&style=for-the-badge&logo=Google&logoColor=white)](../../releases/download/1/google-recorder-revanced-v4.2.20251118.834471379.apk)
 
 ---
 ### [Prime Video:](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
@@ -397,7 +397,7 @@
 
 </details>
 
-[![Download-Prime-Video](https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&style=for-the-badge&logo=Prime-Video&logoColor=white)](../../releases/download/12/prime-video-revanced-v3.0.412.2947.apk)
+[![Download-Prime-Video](https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&style=for-the-badge&logo=Prime-Video&logoColor=white)](../../releases/download/1/prime-video-revanced-v3.0.412.2947.apk)
 
 ---
 ### [Disney+:](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
@@ -409,7 +409,7 @@
 
 </details>
 
-[![Download-Disney](https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&style=for-the-badge&logo=Disney%2B&logoColor=white)](../../releases/download/12/disney-revanced-v4.20.2+rc1-2025.12.09.apk)
+[![Download-Disney](https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&style=for-the-badge&logo=Disney%2B&logoColor=white)](../../releases/download/1/disney-revanced-v4.20.2+rc1-2025.12.09.apk)
 
 ---
 ### [Tumblr:](https://play.google.com/store/apps/details?id=com.tumblr)
@@ -426,7 +426,7 @@
 
 </details>
 
-[![Download-Tumblr](https://img.shields.io/badge/Tumblr-v43.1.0.109-gray?labelColor=36465D&style=for-the-badge&logo=Tumblr&logoColor=white)](../../releases/download/12/tumblr-revanced-v43.1.0.109.apk)
+[![Download-Tumblr](https://img.shields.io/badge/Tumblr-v43.1.0.109-gray?labelColor=36465D&style=for-the-badge&logo=Tumblr&logoColor=white)](../../releases/download/1/tumblr-revanced-v43.1.0.109.apk)
 
 ---
 ### [Photomath:](https://play.google.com/store/apps/details?id=com.microblink.photomath)
@@ -440,7 +440,7 @@
 
 </details>
 
-[![Download-Photomath](https://img.shields.io/badge/Photomath-v8.46.0-gray?labelColor=DA2323&style=for-the-badge&logo=Photomath&logoColor=white)](../../releases/download/12/photomath-revanced-v8.46.0.apk)
+[![Download-Photomath](https://img.shields.io/badge/Photomath-v8.46.0-gray?labelColor=DA2323&style=for-the-badge&logo=Photomath&logoColor=white)](../../releases/download/1/photomath-revanced-v8.46.0.apk)
 
 ---
 ### [Strava:](https://play.google.com/store/apps/details?id=com.strava)
@@ -453,7 +453,7 @@
 
 </details>
 
-[![Download-Strava](https://img.shields.io/badge/Strava-v448.10-gray?labelColor=FC4C02&style=for-the-badge&logo=Strava&logoColor=white)](../../releases/download/12/strava-revanced-v448.10.apk)
+[![Download-Strava](https://img.shields.io/badge/Strava-v448.10-gray?labelColor=FC4C02&style=for-the-badge&logo=Strava&logoColor=white)](../../releases/download/1/strava-revanced-v448.10.apk)
 
 ---
 ### [MyFitnessPal:](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
@@ -465,7 +465,7 @@
 
 </details>
 
-[![Download-MyFitnessPal](https://img.shields.io/badge/MyFitnessPal-v24.14.2-gray?labelColor=0066EE&style=for-the-badge&logo=MyFitnessPal&logoColor=white)](../../releases/download/12/myfitnesspal-revanced-v24.14.2.apk)
+[![Download-MyFitnessPal](https://img.shields.io/badge/MyFitnessPal-v24.14.2-gray?labelColor=0066EE&style=for-the-badge&logo=MyFitnessPal&logoColor=white)](../../releases/download/1/myfitnesspal-revanced-v24.14.2.apk)
 
 ---
 ### [Crunchyroll:](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
@@ -477,7 +477,7 @@
 
 </details>
 
-[![Download-Crunchyroll](https://img.shields.io/badge/Crunchyroll-v3.99.1-gray?labelColor=F47521&style=for-the-badge&logo=Crunchyroll&logoColor=white)](../../releases/download/12/crunchyroll-revanced-v3.99.1.apk)
+[![Download-Crunchyroll](https://img.shields.io/badge/Crunchyroll-v3.99.1-gray?labelColor=F47521&style=for-the-badge&logo=Crunchyroll&logoColor=white)](../../releases/download/1/crunchyroll-revanced-v3.99.1.apk)
 
 ---
 ### [Pandora:](https://play.google.com/store/apps/details?id=com.pandora.android)
@@ -490,7 +490,7 @@
 
 </details>
 
-[![Download-Pandora](https://img.shields.io/badge/Pandora-v2510.1.1-gray?labelColor=3668FF&style=for-the-badge&logo=Pandora&logoColor=white)](../../releases/download/12/pandora-v2510.1.1.apk)
+[![Download-Pandora](https://img.shields.io/badge/Pandora-v2510.1.1-gray?labelColor=3668FF&style=for-the-badge&logo=Pandora&logoColor=white)](../../releases/download/1/pandora-v2510.1.1.apk)
 
 ---
 ### [MEGA:](https://play.google.com/store/apps/details?id=mega.privacy.android.app)
@@ -502,7 +502,7 @@
 
 </details>
 
-[![Download-MEGA](https://img.shields.io/badge/MEGA-v15.26(260290254)(a9e03e1174)-gray?labelColor=D90007&style=for-the-badge&logo=MEGA&logoColor=white)](../../releases/download/12/mega-tosox-v15.26.260290254..a9e03e1174..apk)
+[![Download-MEGA](https://img.shields.io/badge/MEGA-v15.26(260290254)(a9e03e1174)-gray?labelColor=D90007&style=for-the-badge&logo=MEGA&logoColor=white)](../../releases/download/1/mega-tosox-v15.26.260290254.a9e03e1174.apk)
 
 ---
 ### [Cake:](https://play.google.com/store/apps/details?id=me.mycake)
@@ -514,7 +514,7 @@
 
 </details>
 
-[![Download-Cake](https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&style=for-the-badge&logo=cake&logoColor=white)](../../releases/download/12/cake-hoo-dles-v6.4.0.apk)
+[![Download-Cake](https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&style=for-the-badge&logo=cake&logoColor=white)](../../releases/download/1/cake-hoo-dles-v6.4.0.apk)
 
 ---
 ### [Merriam-Webster Dictionary:](https://play.google.com/store/apps/details?id=com.merriamwebster)
@@ -526,7 +526,7 @@
 
 </details>
 
-[![Download-Merriam-Webster-Dictionary](https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.5-gray?labelColor=007AFF&style=for-the-badge&logo=book&logoColor=white)](../../releases/download/12/merriam-webster-dictionary-hoo-dles-v5.5.5.apk)
+[![Download-Merriam-Webster-Dictionary](https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.5-gray?labelColor=007AFF&style=for-the-badge&logo=book&logoColor=white)](../../releases/download/1/merriam-webster-dictionary-hoo-dles-v5.5.5.apk)
 
 ---
 ### [Peacock TV:](https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid)
@@ -538,7 +538,7 @@
 
 </details>
 
-[![Download-Peacock-TV](https://img.shields.io/badge/Peacock_TV-v7.1.20-gray?labelColor=000000&style=for-the-badge&logo=Peacock&logoColor=white)](../../releases/download/12/peacock-tv-revanced-v7.1.20.apk)
+[![Download-Peacock-TV](https://img.shields.io/badge/Peacock_TV-v7.1.20-gray?labelColor=000000&style=for-the-badge&logo=Peacock&logoColor=white)](../../releases/download/1/peacock-tv-revanced-v7.1.20.apk)
 
 ---
 ### [Cricbuzz:](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
@@ -550,7 +550,7 @@
 
 </details>
 
-[![Download-Cricbuzz](https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&style=for-the-badge&logo=Cricbuzz&logoColor=white)](../../releases/download/12/cricbuzz-revanced-v6.24.01.apk)
+[![Download-Cricbuzz](https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&style=for-the-badge&logo=Cricbuzz&logoColor=white)](../../releases/download/1/cricbuzz-revanced-v6.24.01.apk)
 
 ---
 ### [Pixiv:](https://play.google.com/store/apps/details?id=jp.pxv.android)
@@ -562,7 +562,7 @@
 
 </details>
 
-[![Download-Pixiv](https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&style=for-the-badge&logo=Pixiv&logoColor=white)](../../releases/download/12/pixiv-revanced-v6.141.1.apk)
+[![Download-Pixiv](https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&style=for-the-badge&logo=Pixiv&logoColor=white)](../../releases/download/1/pixiv-revanced-v6.141.1.apk)
 
 ---
 ### [RAR:](https://play.google.com/store/apps/details?id=com.rarlab.rar)
@@ -574,7 +574,7 @@
 
 </details>
 
-[![Download-RAR](https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=000000&style=for-the-badge&logo=RAR&logoColor=white)](../../releases/download/12/rar-revanced-v7.20.build131.apk)
+[![Download-RAR](https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=000000&style=for-the-badge&logo=RAR&logoColor=white)](../../releases/download/1/rar-revanced-v7.20.build131.apk)
 
 ---
 ### [Proton Mail:](https://play.google.com/store/apps/details?id=ch.protonmail.android)
@@ -587,7 +587,7 @@
 
 </details>
 
-[![Download-Proton-Mail](https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6D4AFF&style=for-the-badge&logo=ProtonMail&logoColor=white)](../../releases/download/12/proton-mail-revanced-v4.15.0.apk)
+[![Download-Proton-Mail](https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6D4AFF&style=for-the-badge&logo=ProtonMail&logoColor=white)](../../releases/download/1/proton-mail-revanced-v4.15.0.apk)
 
 ---
 ### [Proton VPN:](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
@@ -600,7 +600,7 @@
 
 </details>
 
-[![Download-Proton-VPN](https://img.shields.io/badge/Proton_VPN-v5.15.51.0-gray?labelColor=6D4AFF&style=for-the-badge&logo=ProtonVPN&logoColor=white)](../../releases/download/12/proton-vpn-revanced-v5.15.51.0.apk)
+[![Download-Proton-VPN](https://img.shields.io/badge/Proton_VPN-v5.15.51.0-gray?labelColor=6D4AFF&style=for-the-badge&logo=ProtonVPN&logoColor=white)](../../releases/download/1/proton-vpn-revanced-v5.15.51.0.apk)
 
 ---
 ### [Meme Generator:](https://play.google.com/store/apps/details?id=com.zombodroid.MemeGenerator)
@@ -612,7 +612,7 @@
 
 </details>
 
-[![Download-Meme-Generator](https://img.shields.io/badge/Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=meme&logoColor=white)](../../releases/download/12/meme-generator-revanced-v4.6377.apk)
+[![Download-Meme-Generator](https://img.shields.io/badge/Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=meme&logoColor=white)](../../releases/download/1/meme-generator-revanced-v4.6377.apk)
 
 ---
 ### [AZ Screen Recorder:](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
@@ -624,7 +624,7 @@
 
 </details>
 
-[![Download-AZ-Screen-Recorder](https://img.shields.io/badge/AZ_Screen_Recorder-v6.4.3-gray?labelColor=FF5000&style=for-the-badge&logo=recorder&logoColor=white)](../../releases/download/12/az-screen-recorder-scrazzz-v6.4.3.apk)
+[![Download-AZ-Screen-Recorder](https://img.shields.io/badge/AZ_Screen_Recorder-v6.4.3-gray?labelColor=FF5000&style=for-the-badge&logo=recorder&logoColor=white)](../../releases/download/1/az-screen-recorder-scrazzz-v6.4.3.apk)
 
 ---
 ### [Nova Launcher:](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
@@ -636,7 +636,7 @@
 
 </details>
 
-[![Download-Nova-Launcher](https://img.shields.io/badge/Nova_Launcher-v81023(8.3.1)-gray?labelColor=222222&style=for-the-badge&logo=Nova-Launcher&logoColor=white)](../../releases/download/12/nova-launcher-indrastorms-v81023.8.3.1..apk)
+[![Download-Nova-Launcher](https://img.shields.io/badge/Nova_Launcher-v81023(8.3.1)-gray?labelColor=222222&style=for-the-badge&logo=Nova-Launcher&logoColor=white)](../../releases/download/1/nova-launcher-indrastorms-v81023.8.3.1.apk)
 
 ---
 ### [Tasker:](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
@@ -648,7 +648,7 @@
 
 </details>
 
-[![Download-Tasker](https://img.shields.io/badge/Tasker-v6.6.17.rc-gray?labelColor=000000&style=for-the-badge&logo=tasker&logoColor=white)](../../releases/download/12/tasker-indrastorms-v6.6.17-rc.apk)
+[![Download-Tasker](https://img.shields.io/badge/Tasker-v6.6.17.rc-gray?labelColor=000000&style=for-the-badge&logo=tasker&logoColor=white)](../../releases/download/1/tasker-indrastorms-v6.6.17-rc.apk)
 
 ---
 ### [FX File Explorer:](https://play.google.com/store/apps/details?id=nextapp.fx)
@@ -660,7 +660,7 @@
 
 </details>
 
-[![Download-FX-File-Explorer](https://img.shields.io/badge/FX_File_Explorer-v1.0-gray?labelColor=1976D2&style=for-the-badge&logo=Files&logoColor=white)](../../releases/download/12/fx-file-explorer-indrastorms-v1.0.apk)
+[![Download-FX-File-Explorer](https://img.shields.io/badge/FX_File_Explorer-v9.1.0.0-gray?labelColor=1976D2&style=for-the-badge&logo=Files&logoColor=white)](../../releases/download/1/fx-file-explorer-indrastorms-v9.1.0.0.apk)
 
 ---
 ### [Solid Explorer:](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
@@ -672,7 +672,7 @@
 
 </details>
 
-[![Download-Solid-Explorer](https://img.shields.io/badge/Solid_Explorer-v3.3.1-gray?labelColor=1976D2&style=for-the-badge&logo=folder&logoColor=white)](../../releases/download/12/solid-explorer-revanced-v3.3.1.apk)
+[![Download-Solid-Explorer](https://img.shields.io/badge/Solid_Explorer-v3.3.1-gray?labelColor=1976D2&style=for-the-badge&logo=folder&logoColor=white)](../../releases/download/1/solid-explorer-revanced-v3.3.1.apk)
 
 ---
 ### [Smart Launcher 6:](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
@@ -684,7 +684,7 @@
 
 </details>
 
-[![Download-Smart-Launcher-6](https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=2D2D2D&style=for-the-badge&logo=launcher&logoColor=white)](../../releases/download/12/smart-launcher-6-hoo-dles-v6.6build002patch1.apk)
+[![Download-Smart-Launcher-6](https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=2D2D2D&style=for-the-badge&logo=launcher&logoColor=white)](../../releases/download/1/smart-launcher-6-hoo-dles-v6.6build002patch1.apk)
 
 ---
 ### [TickTick:](https://play.google.com/store/apps/details?id=com.ticktick.task)
@@ -696,7 +696,7 @@
 
 </details>
 
-[![Download-TickTick](https://img.shields.io/badge/TickTick-v8.0.2.0-gray?labelColor=FF6B6B&style=for-the-badge&logo=ticktick&logoColor=white)](../../releases/download/12/ticktick-tosox-v8.0.2.0.apk)
+[![Download-TickTick](https://img.shields.io/badge/TickTick-v8.0.2.0-gray?labelColor=FF6B6B&style=for-the-badge&logo=ticktick&logoColor=white)](../../releases/download/1/ticktick-tosox-v8.0.2.0.apk)
 
 ---
 ### [Meme Generator:](https://play.google.com/store/apps/details?id=com.zombodroid.MemeGenerator)
@@ -708,7 +708,7 @@
 
 </details>
 
-[![Download-Meme-Generator](https://img.shields.io/badge/Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=meme&logoColor=white)](../../releases/download/12/meme-generator-revanced-v4.6377.apk)
+[![Download-Meme-Generator](https://img.shields.io/badge/Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=meme&logoColor=white)](../../releases/download/1/meme-generator-revanced-v4.6377.apk)
 
 ---
 ### [Icon Pack Studio:](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
@@ -720,7 +720,7 @@
 
 </details>
 
-[![Download-Icon-Pack-Studio](https://img.shields.io/badge/Icon_Pack_Studio-v2.2build016-gray?labelColor=9C27B0&style=for-the-badge&logo=palette&logoColor=white)](../../releases/download/12/icon-pack-studio-revanced-v2.2build016.apk)
+[![Download-Icon-Pack-Studio](https://img.shields.io/badge/Icon_Pack_Studio-v2.2build016-gray?labelColor=9C27B0&style=for-the-badge&logo=palette&logoColor=white)](../../releases/download/1/icon-pack-studio-revanced-v2.2build016.apk)
 
 ---
 
