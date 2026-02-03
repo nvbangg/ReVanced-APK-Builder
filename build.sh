@@ -38,9 +38,7 @@ mkdir -p "$TEMP_DIR" "$BUILD_DIR"
 if [ "${2-}" = "--config-update" ]; then
 	config_update "${3-}"
 	exit 0
-fi
-
-if [ -n "${2-}" ]; then
+elif [ -n "${2-}" ]; then
 	config_update "${2}" > config.json
 	exec ./build.sh config.json
 fi

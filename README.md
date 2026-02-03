@@ -490,7 +490,7 @@
 
 </details>
 
-[![Download-Pandora](https://img.shields.io/badge/Pandora-v2510.1.1-gray?labelColor=3668FF&style=for-the-badge&logo=Pandora&logoColor=white)](../../releases/download/1/pandora-v2510.1.1.apk)
+[![Download-Pandora](https://img.shields.io/badge/Pandora-v2510.1.1-gray?labelColor=3668FF&style=for-the-badge&logo=Pandora&logoColor=white)](../../releases/download/1/pandora-revanced-v2510.1.1.apk)
 
 ---
 ### [MEGA:](https://play.google.com/store/apps/details?id=mega.privacy.android.app)
@@ -601,18 +601,6 @@
 </details>
 
 [![Download-Proton-VPN](https://img.shields.io/badge/Proton_VPN-v5.15.51.0-gray?labelColor=6D4AFF&style=for-the-badge&logo=ProtonVPN&logoColor=white)](../../releases/download/1/proton-vpn-revanced-v5.15.51.0.apk)
-
----
-### [Meme Generator:](https://play.google.com/store/apps/details?id=com.zombodroid.MemeGenerator)
-
-<details>
-  <summary>ReVanced/revanced-patches</summary>
-
-- Unlock pro
-
-</details>
-
-[![Download-Meme-Generator](https://img.shields.io/badge/Meme_Generator-v4.6377-gray?labelColor=000000&style=for-the-badge&logo=meme&logoColor=white)](../../releases/download/1/meme-generator-revanced-v4.6377.apk)
 
 ---
 ### [AZ Screen Recorder:](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
